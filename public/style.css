@@ -2,6 +2,15 @@ body {
   background-color: antiquewhite;
 }
 
+.profile-pic, .title {
+display: inline-block;
+vertical-align: middle;
+margin-left: 20px;
+}
+img {
+  border-radius: 40px;
+}
+
 .worked {
   color: whitesmoke;
   background-color: #543310;
